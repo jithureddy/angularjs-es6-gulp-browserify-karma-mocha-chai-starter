@@ -1,6 +1,6 @@
 # angularjs-es6-gulp-browserify-karma-mocha-chai-starter
 
-AngularJS + ES6 + Gulp + Browserify + Karma + Mocha + Chai Starter kit for Frondend projects.
+AngularJS + ES6 + Gulp + Browserify + Karma + Mocha + Chai Starter kit for FrontEnd projects.
 ------------------------------------------------------------------------
 Every project need a good start. This **starter kit** have all you need to start a new project using **AngularJS** and **ES6** and many tools that you simply love!.
 
