@@ -39,7 +39,7 @@ Look the folder /build after execute the command.
 
 For Testing we use:
 
- - Marka
+ - Karma
  - Mocha
  - Chai
 
