@@ -6,7 +6,7 @@ Every project need a good start. This **starter kit** have all you need to start
 
 This project use **ES6**, so if you are new in javascript world reading  [this](https://nodejs.org/en/docs/es6/)  can help you.
 
-All the credits is for *Jake Marsh* and his excelent [starter kit](https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate). The only i do is fix some bugs, change a few things to ES6 and change Jasmine for Mocha and Chai.
+All the credits is for *Jake Marsh* and his excellent [starter kit](https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate). The only i do is fix some bugs, change a few things to ES6 and change Jasmine for Mocha and Chai.
 
 Install
 -------
